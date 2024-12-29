@@ -1,0 +1,9 @@
+Ticket_Number,Start_Date,Due_Date,Status,Order_Number
+1,2023-04-12,2023-04-19,Completed,1
+2,2023-06-21,2023-06-29,Pending,3
+3,2023-08-12,2023-08-20,Cancelled,7
+4,2023-09-21,2023-09-29,Denied,9
+5,2023-10-20,2023-10-28,Completed,12
+6,2023-12-01,2023-12-09,Pending,17
+7,2023-12-12,2023-12-19,Cancelled,18
+8,2024-01-10,2024-01-20,Pending,13

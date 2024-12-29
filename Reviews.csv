@@ -1,0 +1,13 @@
+Review_Number,Date,Review_Text,Ranking,Product_Number,Email
+1,2024-04-15,"Great product, would definitely buy again.",5,15,alice.smith@example.com
+2,2024-05-10,"The product is decent, but the size was a bit too big.",3,6,bob.smith@example.com
+3,2024-06-25,"Good quality, although delivery took a bit long.",4,10,bob.smith@example.com
+4,2024-07-03,"Nice, but the color wasn’t as expected.",3,14,carla.jones@example.com
+5,2024-07-12,"The item was perfect, very pleased!",5,10,carla.jones@example.com
+6,2024-08-08,"Very comfortable, love the material!",4,18,david.white@example.com
+7,2024-09-10,It broke after a week of use. Not happy with the quality.,2,8,georgia.miller@example.com
+8,2024-09-18,Amazing value for the price!,5,6,ian.white@example.com
+9,2024-10-01,Didn’t meet my expectations. The item was too small.,2,3,kevin.martin@example.com
+10,2024-10-05,"It’s okay, but the design could use some work.",3,6,michael.smith@example.com
+11,2024-10-18,"Perfect for what I needed, arrived on time.",5,13,oliver.reed@example.com
+12,2024-11-22,"Average quality, could be better for the price.",3,9,steven.walker@example.com
