@@ -1,0 +1,21 @@
+Product_Number,Brand,Colour,Dimension,Weight,Price,Warranty_Length,Category,Description,Product_Name,Units_In_Stock
+1,Sony,Black,10x5x2,1.5,99.99,365,Electronics,High-quality noise-cancelling headphones,Sony WH-1000XM5,50
+2,Apple,White,6x3x0.5,0.2,249.99,365,Electronics,Smartphone with excellent camera features,iPhone 14,40
+3,Samsung,Blue,12x6x1,0.8,89.99,365,Electronics,Affordable smartphone with great features,Samsung Galaxy A52,80
+4,Bose,Black,8x4x3,0.6,99.99,365,Electronics,Premium portable speaker with great sound,Bose SoundLink,65
+5,Nike,Red,12x8x5,1,79.99,180,Sportswear,Running shoes designed for comfort,Nike Air Zoom Pegasus,120
+6,Adidas,Black,11x7x4,1.2,95.99,180,Sportswear,Stylish sneakers for daily use,Adidas Ultraboost,75
+7,Under Armour,Blue,11x8x4,1,79.99,180,Sportswear,Comfortable running shoes for training,Under Armour HOVR Phantom,100
+8,Puma,White,12x8x4,1.1,59.99,180,Sportswear,Breathable sneakers for casual wear,Puma RS-X3,90
+9,HP,Black,17x11x2,2.5,649.99,365,Computers,Laptop with high-speed performance,HP Pavilion 15,40
+10,Dell,Grey,13x9x1.5,1.8,99.99,365,Computers,Compact laptop with impressive battery life,Dell Inspiron 14,100
+11,Apple,Space Gray,10x7x0.5,0.4,249,365,Computers,Portable laptop with high performance,MacBook Air M2,30
+12,Microsoft,Black,12x8x1,2,799.99,365,Computers,Surface laptop with touch screen,Microsoft Surface Laptop 4,25
+13,Seiko,Gold,4x4x1,0.2,50,365,Accessories,Elegant wristwatch for formal occasions,Seiko 5,95
+14,Fossil,Brown,3x3x0.5,0.1,60,365,Accessories,Leather wallet with RFID protection,Fossil Quinn Wallet,120
+15,JBL,Black,8x4x3,0.5,89.99,365,Accessories,Waterproof portable speaker,JBL Flip 5,85
+16,Bose,White,7x3x3,0.7,99.99,365,Accessories,Noise-cancelling headphones for travel,Bose QuietComfort 35,90
+17,Amazon,Black,10x7x3,0.8,49.99,365,Home Appliances,Smart home assistant with Alexa,Amazon Echo,130
+18,Dyson,Silver,10x8x8,4.5,99.99,365,Home Appliances,Cordless vacuum cleaner with strong suction,Dyson V11,40
+19,Keurig,Black,9x7x14,2.5,89.99,365,Home Appliances,Coffee maker with K-Cup compatibility,Keurig K-Elite,60
+20,Philips,White,11x9x9,3,99.99,365,Home Appliances,Air purifier for healthier air quality,Philips Air Purifier 2000i,70
